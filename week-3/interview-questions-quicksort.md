@@ -1,4 +1,4 @@
-## Interview Questions: MergeSort (ungraded)
+## Interview Questions: Quick Sort (ungraded)
 
 ## Nuts and bolts
 ```
